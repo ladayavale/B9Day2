@@ -6,4 +6,10 @@ public class Day2 {
 		System.out.println("day2");
 		
 	}
+		public void divid (int a, int b) {
+			System.out.println(a/b);
+			
+		
+		
+	}
 }
