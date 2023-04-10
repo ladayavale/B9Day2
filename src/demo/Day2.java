@@ -20,6 +20,9 @@ public class Day2 {
 	this is comin from other team member....
 	
 	*/
+	
+	String firstName = "John";
+	
 		
 		
 	}
